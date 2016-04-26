@@ -34,6 +34,10 @@ this is a game about a human that is also a birb.
   npm start
   ```
 
+## working with tile maps
+
+This project uses [Tiled](http://www.mapeditor.org/) to create and manage tile maps. Download it from the project page and open `.tmx` files with the GUI.
+
 ## thx
 [Daniel Belohlavek](https://github.com/belohlavek) made a great [phaser+es6 boilerplate](https://github.com/belohlavek/phaser-es6-boilerplate), thanks!
 
