@@ -36,3 +36,5 @@ this is a game about a human that is also a birb.
 
 ## thx
 [Daniel Belohlavek](https://github.com/belohlavek) made a great [phaser+es6 boilerplate](https://github.com/belohlavek/phaser-es6-boilerplate), thanks!
+
+[Blarget](http://blarget.org/) gave this world an excellent [spritesheet](http://opengameart.org/content/minimalist-pixel-tileset).
